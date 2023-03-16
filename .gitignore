@@ -8,3 +8,7 @@ venv
 # Compiled python
 __pycache__/
 *.py[cod]
+
+# Distribution files
+dist/
+*.egg-info/
