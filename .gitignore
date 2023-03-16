@@ -1,0 +1,10 @@
+# IDEs etc. local dev preferences
+.vscode
+.idea
+.env
+venv
+.DS_Store
+
+# Compiled python
+__pycache__/
+*.py[cod]
